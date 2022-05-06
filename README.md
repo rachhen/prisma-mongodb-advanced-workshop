@@ -9,7 +9,7 @@ This repository contains the starter project for the **Advanced Prisma with Mong
 You can clone this repository with the following command:
 
 ```
-git clone git@github.com:sabinadams/prisma-mongodb-advanced-workshop.git
+git clone https://github.com/rachhen/prisma-mongodb-advanced-workshop.git
 ```
 
 > Alternatively, you can also download the project via the GitHub UI. Click the green **Code**-button in the top-right corner and then click on **Download ZIP**.
